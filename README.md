@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Se plante un escenario donde se desea evaluar la capacidad de Azure Backup para proteger el contenido de equipos locales y máquinas virtuales de IaaS de Azure. R. Datum Corporation también desea evaluar Azure Site Recovery para proteger las máquinas virtuales de Azure.
+Se plante un escenario donde se desea evaluar la capacidad de Azure Backup para proteger el contenido de equipos locales y máquinas virtuales de IaaS de Azure. también se desea evaluar Azure Site Recovery para proteger las máquinas virtuales de Azure.
 
 ![image](https://github.com/csarssj/AREP-PROYECTO/blob/main/img/DRP-Activo_Activo.png)
 
