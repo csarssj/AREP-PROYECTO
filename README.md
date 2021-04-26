@@ -6,6 +6,12 @@ Se plante un escenario donde se desea evaluar la capacidad de Azure Backup para 
 
 ![image](https://github.com/csarssj/AREP-PROYECTO/blob/main/img/DRP-Activo_Activo.png)
 
+## Prerequisitos
+
+   - Si no tiene una cuenta de Azure con una suscripción activa, puede crear una cuenta gratuita.
+
+   - Se recomienda una máquina virtual con un mínimo de 1 GB de RAM. Más información sobre cómo crear una máquina virtual.
+
 ## Objetivos 
 
 La finalidad de este ejercicio es: 
@@ -48,7 +54,9 @@ La finalidad de este ejercicio es:
 ## Authors
 
 [Brayan Buitrago](https://github.com/DonSantiagoS) 
+
 [Guillermo Catro](https://github.com/memo1019) 
+
 [César González](https://github.com/csarssj) 
 
 ## License
